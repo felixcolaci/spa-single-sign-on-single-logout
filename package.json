@@ -1,0 +1,21 @@
+{
+  "name": "spa-single-sign-on-single-logout",
+  "version": "1.0.0",
+  "description": "This demonstration covers the following use cases:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "cd app-1-webstore && npm install",
+    "postinstall": "cd app-2-loyalty && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixcolaci/spa-single-sign-on-single-logout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixcolaci/spa-single-sign-on-single-logout/issues"
+  },
+  "homepage": "https://github.com/felixcolaci/spa-single-sign-on-single-logout#readme"
+}

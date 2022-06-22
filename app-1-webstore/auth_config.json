@@ -1,0 +1,4 @@
+{
+  "domain": "<your auth0 domain>",
+  "clientId": "<your client id for the store app>"
+}
